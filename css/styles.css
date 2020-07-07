@@ -168,11 +168,10 @@
 
   body {
     background-color: lightgray;
-    height: 100vh;
   }
 
   .card {
-    margin-top: 25%;
+    margin: 20vh auto;
     padding: initial;
     display: flex;
     flex-direction: row-reverse;
